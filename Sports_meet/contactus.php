@@ -11,7 +11,7 @@
   <link href="https://fonts.googleapis.com/css?family=Baloo+Thambi" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Lobster|Righteous|Indie+Flower|Courgette" rel="stylesheet">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
- <link href="https://fonts.googleapis.com/css?family=Abril+Fatface|Acme|Pacifico|Kosugi|Lato|Black+Ops+One|Bubblegum+Sans|Fredericka+the+Great|Limelight|Monoton|Shojumaru" rel="stylesheet">
+ <link href="https://fonts.googleapis.com/css?family=Abril+Fatface|Acme|Pacifico|Kosugi|Lato|Black+Ops+One|Bubblegum+Sans|Righteous|Arvo|Fredericka+the+Great|Limelight|Monoton|Shojumaru" rel="stylesheet">
         <style>
           @media only screen and (max-width: 600px) {
     .he
@@ -25,10 +25,11 @@
     }
 }
  
+	 
         </style>
     </head>
         
-    <body style="background-image: url(13.jpg);">
+    <body style="background-image: url(contact.jpg);">
     	      <nav class="navbar navbar-inverse navbar-fixed-top" >
 	<div class="container-fluid">
 	<div class="navbar-header">
@@ -62,14 +63,14 @@
         <div class="animatedParent" >
             <div class="animated bounceInLeft " data-id='1' align="right" style="margin-right: 10vw;">
             	 
- 				 <div class="he"  style="border-width: 2px;border-color: black;border-style: groove;">
+ 				 <div class="he"  style="background-color: #fff; border-width: 2px;border-color: black;border-style: groove;">
   						<center><h2><b style="font-family: 'Black Ops One'">Table Tennis</b></h2></center>
    						 <img class="card-img-top" src="5.jpg" alt="Card image" style="width:100%">
    						 <div class="card-body">
-     					<center> <h4 class="card-title"><b style="color:red;">Shruti Raypa</b></h4><center>
-     					 <p class="card-text"><b>Contact Number- 8318807207</b> </p>
-     					 <h4><b style="color:red;">Utkarsh Sharma</b></h4>
-     					 <p><b>Contact Number-9634968591</b></p>
+     					<center> <h4 class="card-title"><b style="color:red; font-family: 'Righteous', cursive;">Shruti Raypa</b></h4><center>
+     					 <p class="card-text" style="font-family: 'Arvo', serif;"><b>Contact Number- 8318807207</b> </p>
+     					 <h4><b style="color:red; font-family: 'Righteous', cursive;">Utkarsh Sharma</b></h4>
+     					 <p style="font-family: 'Arvo', serif;"><b>Contact Number-9634968591</b></p>
     					
    				 </div>
             </div>
@@ -78,14 +79,14 @@
     <div class="animatedParent">
          <div class="animated bounceInDown " align="left" style="margin-left: 10vw;margin-top: 5vw;">
             	 
- 				 <div class="he"  style="border-width: 2px;border-color: black;border-style: groove;">
+ 				 <div class="he"  style="background-color: #fff; border-width: 2px;border-color: black;border-style: groove;">
   						<center><h2><b style="font-family: 'Black Ops One'">Athletics</b></h2></center>
    						 <img class="card-img-top" src="4.jpg" alt="Card image" style="width:100%">
    						 <div class="card-body">
-     					<center> <h4 class="card-title"><b style="color:red;">Siddhant Singh</b></h4>
-     					 <p class="card-text"><b>Contact Number-  8920902715 </b></p>
-     					 <h4><b style="color:red;">Rishabh Yadav</b></h4>
-     					 <p><b>Contact Number-7390959929</b></p></center>
+     					<center> <h4 class="card-title"><b style="color:red; font-family: 'Righteous', cursive;">Siddhant Singh</b></h4>
+     					 <p class="card-text" style="font-family: 'Arvo', serif;" ><b>Contact Number-  8920902715 </b></p>
+     					 <h4><b style="color:red; font-family: 'Righteous', cursive;">Rishabh Yadav</b></h4>
+     					 <p style="font-family: 'Arvo', serif;"><b>Contact Number-7390959929</b></p></center>
     					
    				 </div>
             </div>
@@ -93,14 +94,14 @@
     </div>
         	 <div class="animatedParent" align="right" style="margin-top: 5vw;margin-right: 10vw;">
            		 <div class="animated bounceInLeft ">
-            			 <div class="he" style="border-width: 2px;border-color: black;border-style: groove;">
+            			 <div class="he" style="background-color: #fff; border-width: 2px;border-color: black;border-style: groove;">
   						<center>	<h2><b style="font-family: 'Black Ops One'">Badminton</b></h2> </center>
    							 <img class="card-img-top" src="9.jpg" alt="Card image" style="width:100%">
    							 <div class="card-body">
-     						<center> <h4 class="card-title"><b style="color:red;">Ravi Kumar</b></h4>
-     						 <p class="card-text"><b>Contact Number- 8171433316</b> </p><br>
-     						 <h4><b style="color:red;">Nikhil Anand</b></h4>
-     						 <p><b>Contact Number- 8953217782</b></p></center>
+     						<center> <h4 class="card-title"><b style="color:red; font-family: 'Righteous', cursive;">Ravi Kumar</b></h4>
+     						 <p class="card-text" style="font-family: 'Arvo', serif;"><b>Contact Number- 8171433316</b> </p><br>
+     						 <h4><b style="color:red; font-family: 'Righteous', cursive;">Nikhil Anand</b></h4>
+     						 <p style="font-family: 'Arvo', serif;"><b>Contact Number- 8953217782</b></p></center>
     					
    						 </div>
            		 </div>
@@ -108,12 +109,12 @@
         </div>
         <div class="animatedParent " align="left" style="margin-top: 5.5vw;margin-left: 10vw;">
             <div class="animated growIn ">
-            	<div class="he" style="border-width: 2px;border-color: black;border-style: groove;">
+            	<div class="he" style="background-color: #fff; border-width: 2px;border-color: black;border-style: groove;">
   						<center>	<h2><b style="font-family: 'Black Ops One'">BasketBall</b></h2> </center>
    							 <img class="card-img-top" src="10.jpg" alt="Card image" style="width:100%">
    							 <div class="card-body">
-     						<center> <h4 class="card-title"><b style="color:red;"> Karan Singh Khati</b></h4>
-     						 <p class="card-text"><b>Contact Number- 8171885239</b></p></center>
+     						<center> <h4 class="card-title"><b style="color:red; font-family: 'Righteous', cursive;"> Karan Singh Khati</b></h4>
+     						 <p class="card-text" style="font-family: 'Arvo', serif;"><b>Contact Number- 8171885239</b></p></center>
     					
    				 </div>
             </div>
@@ -121,14 +122,14 @@
         </div>
         <div class="animatedParent" align="right" style="margin-top: 5vw;margin-right: 10vw;">
             <div class="animated bounceInLeft">
-            	<div class="he" style="border-width: 2px;border-color: black;border-style: groove;">
+            	<div class="he" style="background-color: #fff; border-width: 2px;border-color: black;border-style: groove;">
   						<center>	<h2><b style="font-family: 'Black Ops One'">Volleyball</b></h2></center>
    							 <img class="card-img-top" src="11.jpg" alt="Card image" style="width:100%">
    							 <div class="card-body">
-     					<center>	 <h4 class="card-title"><b style="color:red;">Ambar Rastogyi</b></h4>
-     						 <p class="card-text"><b>Contact Number- 8756481745</b> </p>
-     						 <h4><b style="color:red;">Pawan Mavi</b></h4>
-     						 <p><b>Contact Number-7734847439</b></p></center>
+     					<center>	 <h4 class="card-title"><b style="color:red; font-family: 'Righteous', cursive;">Ambar Rastogyi</b></h4>
+     						 <p class="card-text" style="font-family: 'Arvo', serif;"><b>Contact Number- 8756481745</b> </p>
+     						 <h4><b style="color:red; font-family: 'Righteous', cursive;">Pawan Mavi</b></h4>
+     						 <p style="font-family: 'Arvo', serif;"><b>Contact Number-7734847439</b></p></center>
     					
    				 </div>
             </div>
@@ -137,24 +138,24 @@
         
         <div class="animatedParent" align="left" style="margin-top: 5vw;margin-left: 10vw;">
             <div class="animated bounceInRight">
-            	<div class="he" style="border-width: 2px;border-color: black;border-style: groove;">
+            	<div class="he" style="background-color: #fff; border-width: 2px;border-color: black;border-style: groove;">
   							<center><h2><b style="font-family: 'Black Ops One'">Chess</b></h2></center>
    							 <img class="card-img-top" src="6.jpg" alt="Card image" style="width:100%">
    						<center>	 <div class="card-body">
-     						 <h4 class="card-title"><b style="color:red;">Ritesh Negi</b></h4>
-     						 <p class="card-text"><b>Contact Number- 7752905053 </b></p></div>
+     						 <h4 class="card-title"><b style="color:red; font-family: 'Righteous', cursive;">Ritesh Negi</b></h4>
+     						 <p style="font-family: 'Arvo', serif;" class="card-text"><b>Contact Number- 7752905053 </b></p></div>
     					
    				 </div>
             </div>
             </div>
              <div class="animatedParent" align="center" style="margin-top: 6vw;margin-left: 10vw;">
             <div class="animated bounceInDown">
-            	<div class="he" style="border-width: 2px;border-color: black;border-style: groove;">
+            	<div class="he" style="background-color: #fff; border-width: 2px;border-color: black;border-style: groove;">
   							<center><h2><b style="font-family: 'Black Ops One'">Web Developer</b></h2></center>
    							 <img class="card-img-top" src="8.jpeg" alt="Card image" style="width:100%">
    						<center>	 <div class="card-body">
-     						 <h4 class="card-title"><b style="color:red;">Sahil Srivastava</b></h4>
-     						 <p class="card-text"><b>Contact Number- 8299287341 </b></p></div>
+     						 <h4 class="card-title"><b style="color:red; font-family: 'Righteous', cursive;">Sahil Srivastava</b></h4>
+     						 <p class="card-text" style="font-family: 'Arvo', serif;"><b>Contact Number- 8299287341 </b></p></div>
     					
    				 </div>
             </div>
@@ -183,8 +184,6 @@
 			<div class="container-fluid" style="color: white;">&copy; 2019 Copyright <a href="index.php">FICK 2019, HBTU KANPUR</a>
 			</div>
 	</div>
-</div>
-</div>
 </div>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
         <script src="css3-animate-it.js"></script>
